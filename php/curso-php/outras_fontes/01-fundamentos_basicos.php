@@ -12,6 +12,7 @@
 		echo("Testando outra fonte de estudo! <br>");
 		// tambem imprime mensagem na tela
 		print("Testando outro print na tela")
+		echo("Testando com VSCode!")
 
 	?>
 
