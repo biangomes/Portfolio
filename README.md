@@ -1,4 +1,13 @@
 # Portfolio
-Arquivos de projetos e materiais de apoio durante os estudos.
+![](C:\cursopython\biangomes\banner3.png)
 
-Os arquivos `Calculadora.py` e `scriptCalculadora.py` fazem parte do estudo sobre orientação a objetos com python. 
+
+
+### Principais projetos:
+
+- `ferroviaria`: trata-se de uma análise exploratória de dados em que o objetivo consiste responder perguntas estratégicas de negócios sobre o fluxo de passageiros em uma companhia fictícia de trens.
+- `Clustering Spotify`
+- `Desenvolvedores do Bootcamp`
+- `Regressão_Linear`
+- `Consumo de Eletricidade`
+- `Calculadora`
