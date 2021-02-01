@@ -1,11 +1,6 @@
 # Portfolio
-```html
-<p align="center">
-  <img src="banner3.png" >
-</p>
-```
 
-
+![portfolio](C:\Users\beatr\Documents\GitHub\Portfolio\banner3.png)
 
 ### Principais projetos:
 
