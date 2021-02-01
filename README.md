@@ -1,5 +1,9 @@
 # Portfolio
-![](C:\cursopython\biangomes\banner3.png)
+```html
+<p align="center">
+  <img src="banner3.png" >
+</p>
+```
 
 
 
